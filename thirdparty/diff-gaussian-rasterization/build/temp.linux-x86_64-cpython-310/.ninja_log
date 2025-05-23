@@ -1,0 +1,6 @@
+# ninja log v5
+0	2224	1748017639579098440	/home/farsee2/YZX_code/SLAM/RGB/HI-SLAM2/thirdparty/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	7bb53f10ab53dbb6
+0	2562	1748017639917116713	/home/farsee2/YZX_code/SLAM/RGB/HI-SLAM2/thirdparty/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	419ce3cb0224cafc
+0	9869	1748017647214510803	/home/farsee2/YZX_code/SLAM/RGB/HI-SLAM2/thirdparty/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/ext.o	3152f3fb2a7d26ff
+0	11915	1748017649256620955	/home/farsee2/YZX_code/SLAM/RGB/HI-SLAM2/thirdparty/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	1af2ba9c6aae9828
+1	29672	1748017667020576766	/home/farsee2/YZX_code/SLAM/RGB/HI-SLAM2/thirdparty/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/rasterize_points.o	8617125e8d5ca277
